@@ -154,6 +154,8 @@ width: 100%;
   margin-bottom: 100px;
   border: 1px solid #ecedf1;
 }
+
+
 .testimonials blockquote:before {
   content: '';
   position: absolute;
@@ -198,6 +200,11 @@ span.clients-name {
   position: absolute;
   bottom: 10px;
   right: 10px;
+}
+
+.testimonials blockquote#vb:before{
+
+  margin-top: 143px;
 }
 
 .job-card{
