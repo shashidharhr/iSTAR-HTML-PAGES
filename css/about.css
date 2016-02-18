@@ -71,8 +71,9 @@ h3{
 	border: none;	
 	border-bottom: none;
 	background-color: #3a3a3a;  
+	height: 43px;
 	color: #fff;
-	height:100%;
+	
 	font-weight: bold;
 }
 
@@ -115,6 +116,7 @@ h3{
 	height: auto;
 	width: 100%;
 	padding: 0 0 0 0;
+	    margin-top: 2px;
 }
 
 
@@ -173,7 +175,7 @@ background: #FAFAFA;
    /* margin:3px;*/
 	color: #6A6666;
 	font-size: 17px;
-	overflow: auto;
+	
 	
 }
 
@@ -235,6 +237,7 @@ position: relative;
    width: 100%;
     margin-top: 1px;
     background: #8bc34a;
+   min-height: 43px;
    
 	
 }
