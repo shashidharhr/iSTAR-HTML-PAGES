@@ -11,7 +11,7 @@ width: 100%;
 }
 .carousel-control {
 
-	width: 5%;
+	width: 17%;
 }
 .page_wrap{
 width: 100%;
@@ -548,7 +548,7 @@ margin: 0 1% 0 4%;
 /*new card-display implementation*/
 .custom-containercard{
 	width:100%;
-	min-height: 50em;
+	min-height: 55em;
 	background: #333;
 	margin: auto auto;
 }
